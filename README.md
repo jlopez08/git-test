@@ -1,0 +1,1 @@
+This is Jose's "first" git project - technically not; took a intro web programming course in college, where I first learned to mess around on git. But this will be my second, and more thorough, time learning to work with git (and GitHub, by extension).
